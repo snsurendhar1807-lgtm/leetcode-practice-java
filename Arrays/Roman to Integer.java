@@ -1,4 +1,4 @@
-//LeetCode 13 - Roman to Integers
+//LeetCode 13 - Roman to Integer
 
 class Solution {
     public int romanToInt(String s) {
