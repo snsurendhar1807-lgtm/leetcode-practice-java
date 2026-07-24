@@ -1,5 +1,5 @@
 //LeeetCode 704 - Binary Search
-class Solution {
+class Solution{
     public int search(int[] nums, int target) {
         int i;
         for(i=0 ; i<nums.length; i++){
